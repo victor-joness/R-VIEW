@@ -70,7 +70,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/victor-joness/Solf1-Solucoes-Financeiras
+git clone https://github.com/victor-joness/R-VIEW
 
 # Entrar numa IDE de sua preferência 
 
