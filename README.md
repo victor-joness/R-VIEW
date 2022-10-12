@@ -41,7 +41,19 @@ Nesse projeto, nossa equipe foi capaz de:
 - Em seguida, implementar (ou reestruturar) o código do sistema utilizando os princípios SOLID da orientação a objetos.
   
 ## 📝 Interfaces do projeto                                                                         
-  https://www.figma.com/file/j8VOMfCe3Gyb2pTaN9fu4d/Untitled?fuid=988763697417346370                                       
+  https://www.figma.com/file/j8VOMfCe3Gyb2pTaN9fu4d/Untitled?fuid=988763697417346370 
+  
+## 📊 Diagramas do projeto
+  > Diagrama de classe:
+    ---                                                         
+  > Diagrama de pacote: 
+    ---                                                              
+  > Diagrama de caso de uso:
+    ---                                                            
+  > Diagrama de sequência:
+    ---                                                                        
+  > Diagrama de máquina de estados:
+    ---                                    
 
 ## 📝 Ajustes e melhorias
 
@@ -53,6 +65,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Adição de Funcionalidades voltada pra deficientes;
 - [ ] Modo preto/Branco;
 - [ ] Mudar as variaveis globais para useContext;
+
 # 👷 Como rodar
 
 ```bash
@@ -91,10 +104,6 @@ git clone https://github.com/victor-joness/Solf1-Solucoes-Financeiras
 
 
 ## :mortar_board: Autores
-```bash
-# Agradecimentos:
-  - @vitorLostadaC (Me ajudou com os Cruds);
-```
 
 <table align="center">
     <tr>
@@ -105,8 +114,18 @@ git clone https://github.com/victor-joness/Solf1-Solucoes-Financeiras
                 <sub><b>Victor Mesquita<sub><b>
             </a>
         </td>    
+        <td align="center">
+            <a href="https://github.com/SamuelLopess03">
+                <img src="https://user-images.githubusercontent.com/85620625/195366186-541c980e-1aba-4d03-9da7-5e49e64b9d22.png" width="150px;" alt="Foto Victor"/>
+                <br />
+                <sub><b>Samuel Lopes<sub><b>
+            </a>
+        </td>
     </tr>
 </table>
+              
+              
+              
               
 ## 📄 Licença
 
