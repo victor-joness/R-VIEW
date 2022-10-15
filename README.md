@@ -53,7 +53,7 @@ Nesse projeto, nossa equipe foi capaz de:
   > Diagrama de sequência:
     ---                                                                        
   > Diagrama de máquina de estados:
-    ---                                    
+    https://imgur.com/gallery/2rf1UMQ                                    
 
 ## 📝 Ajustes e melhorias
 
