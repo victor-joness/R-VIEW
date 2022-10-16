@@ -49,7 +49,7 @@ Nesse projeto, nossa equipe foi capaz de:
   > Diagrama de pacote: 
     ---                                                              
   > Diagrama de caso de uso:
-    ---                                                            
+    https://imgur.com/gallery/IKdSQac                                                            
   > Diagrama de sequência:
     ---                                                                        
   > Diagrama de máquina de estados:
