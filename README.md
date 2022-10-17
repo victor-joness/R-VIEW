@@ -47,7 +47,7 @@ Nesse projeto, nossa equipe foi capaz de:
   > Diagrama de classe:
     ---                                                         
   > Diagrama de pacote: 
-    ---                                                              
+    https://imgur.com/gallery/P3DHSiw                                                              
   > Diagrama de caso de uso:
     https://imgur.com/gallery/IKdSQac                                                            
   > Diagrama de sequência:
