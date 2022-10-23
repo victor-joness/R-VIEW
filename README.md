@@ -51,7 +51,7 @@ Nesse projeto, nossa equipe foi capaz de:
   > Diagrama de caso de uso:
     https://imgur.com/gallery/IKdSQac                                                            
   > Diagrama de sequência:
-    ---                                                                        
+    https://imgur.com/gallery/d32Lqpj                                                                        
   > Diagrama de máquina de estados:
     https://imgur.com/gallery/pZXdSCT                                   
 
