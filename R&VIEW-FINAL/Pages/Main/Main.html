@@ -768,7 +768,7 @@
         var inst = this;
         var fabricObj = inst.fabricObjects[inst.active_canvas];
         var bg = fabricObj.backgroundImage;
-        if (confirm("Você tem certeza?")) {
+        if (confirm("Você quer apagar tudo?")) {
           fabricObj.clear();
           fabricObj.setBackgroundImage(bg, fabricObj.renderAll.bind(fabricObj));
         }
