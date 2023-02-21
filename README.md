@@ -8,8 +8,8 @@ Projeto de um Visualizador e Editor de Comentários de Documentos PDF, Realizado
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-> Front-End: React, CSS, HTML, JavaScript e algumas Bibliotecas;                                      
-> Back-End: ;                                                       
+> Front-End: HTML, CSS, JavaScript e algumas Bibliotecas;                                                         
+> Back-End: JavaScript;                                                       
 
 ## 📌 Habilidades
 
