@@ -15,8 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto, nossa equipe foi capaz de:
 
-- Trabalhar com estado, componentes, useState, useNavigate;
-- Fazer o uso e o estudo das seguintes bibliotecas PDFJS, FabricJS, jsPDF;
+- Trabalhar com funções, classes e Objetos;
+- Fazer o uso e o estudo das seguintes bibliotecas PDFJS, FabricJS, jsPDF, Canvas;
 
 ## :memo: Funcionalidades: 
 - 1. Visualização de arquivo PDF;
