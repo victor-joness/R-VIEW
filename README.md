@@ -22,21 +22,21 @@ Nesse projeto, nossa equipe foi capaz de:
 - 1. Visualização de arquivo PDF;
 - 2. Salvar arquivo PDF com os comentários realizados no arquivo;
 - 3. Adição de imagens sobre o conteúdo do PDF;
-- 4. Inclusão de comentários em formato de texto, onde o texto terá as seguintes opções:
-  • tamanho da fonte;
-  • cor da fonte.
-- 5. Adição de forma geométrica sobre o conteúdo do PDF, com as seguintes opções:
-  • forma geométricas possíveis: linha, retângulo, elipse/círculo;   
-  • As formas podem ser apenas as bordas ou não;
-  • cor da forma;
-  • transformações das formas: translação, rotação e escala;
+- 4. Inclusão de comentários em formato de texto, onde o texto terá as seguintes opções:                                          
+  • tamanho da fonte;                                             
+  • cor da fonte.                                          
+- 5. Adição de forma geométrica sobre o conteúdo do PDF, com as seguintes opções:                            
+  • forma geométricas possíveis: linha, retângulo, elipse/círculo;                   
+  • As formas podem ser apenas as bordas ou não;                                     
+  • cor da forma;                                   
+  • transformações das formas: translação, rotação e escala;                        
   
-- Além dessas funcionalidades, nossa equipe teve que elaborar os seguintes diagramas UML do sistema:
-  • classe;
-  • pacote;
-  • caso de uso;
-  • sequência;
-  • máquina de estados ou transição de estados
+- Além dessas funcionalidades, nossa equipe teve que elaborar os seguintes diagramas UML do sistema:                                                
+  • classe;                        
+  • pacote;                      
+  • caso de uso;                      
+  • sequência;                                                 
+  • máquina de estados ou transição de estados                       
   
 - Em seguida, implementar (ou reestruturar) o código do sistema utilizando os princípios SOLID da orientação a objetos.
   
