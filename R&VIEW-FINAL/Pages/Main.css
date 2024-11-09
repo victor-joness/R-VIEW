@@ -69,6 +69,7 @@ input[type="file"]{
 .Container-superior .Container-box{
     display: flex;
     background: var(--grey);
+    height: 91.9rem;
 }
 
 #pdf-container {
